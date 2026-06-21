@@ -55,9 +55,9 @@ def factor(var_to_factor):
         if lollies_left == 0:
             factors_list.append(item)
 
+    # Sorts list and returns it
     factors_list.sort()
     return  factors_list
-
 
 # Main Routine Goes Here
 
